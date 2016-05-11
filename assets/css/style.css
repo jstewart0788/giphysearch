@@ -1,0 +1,18 @@
+button, div, form, input 
+{
+	margin: 10px;
+}
+.clubDiv
+{
+	display: inline-block;
+}
+button
+{
+	background:black;
+	color:white;
+}
+#addClub
+{
+	background:black;
+	color:white;
+}
